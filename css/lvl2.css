@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+
+.homebtn{
+    width:30px;
+    transform: translateY(-5px);
+  }
+
+h1{
+    text-align: center;
+}
+
+p{
+    display:block;
+
+}
+
+.button {
+    background-color: #EAEFF5 ;/* Green */
+    border: 1px solid;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+section img{
+
+    width:80%;
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .p, .images{
+        width:100%;
+  
+    }
+}
+
+@media only screen and (max-width:768px) {
+    /* For mobile phones: */
+  
+    .p, .images{
+      width:100%;
+
+  }
+}

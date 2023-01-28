@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+.images{
+    margin:auto;
+    vertical-align: middle;
+    width:49%;
+    display:inline-block;
+}
+p{
+    width:70%;
+    text-align: justify;
+    display:inline-block;
+
+}
+section img{
+
+    width:400px;
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .p, .images{
+        width:100%;
+  
+    }
+}
+
+@media only screen and (max-width:768px) {
+    /* For mobile phones: */
+  
+    .p, .images{
+      width:100%;
+
+  }
+}
