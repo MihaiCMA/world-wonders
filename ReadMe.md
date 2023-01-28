@@ -20,7 +20,7 @@ The "Cele 5 minuni ale lumii" application requires a [web browser](https://en.wi
 
 ### Clone the repositories
 ```sh
-$ git your_repo
+$ git clone https://github.com/MihaiCMA/world-wonders.git
 ```
 
 # Web application screenshots 
