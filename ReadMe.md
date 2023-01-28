@@ -4,9 +4,11 @@ Cele 5 minuni ale lumii
 <p align="center">
 HTML5, CSS3, JavaScript
 </p>
+
 <p align="center">
 <img src="https://github.com/MihaiCMA/world-wonders/blob/main/logo.png" />
 </p>
+
 # Tech stack
 The "Cele 5 minuni ale lumii" project uses a number of open source projects to work properly:
 * [HTML5](https://www.w3schools.com/html/) - is the standard markup language for creating Web pages.
