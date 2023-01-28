@@ -5,7 +5,9 @@ Cele 5 minuni ale lumii
 HTML5, CSS3, JavaScript
 </p>
 
-<img src="https://github.com/your_username/your_repositories/blob/main/logo_image" />
+<p align="center">
+<img src="https://github.com/MihaiCMA/world-wonders/blob/main/logo.png" />
+</p>
 
 # Tech stack
 The "Cele 5 minuni ale lumii" project uses a number of open source projects to work properly:
@@ -18,25 +20,25 @@ The "Cele 5 minuni ale lumii" application requires a [web browser](https://en.wi
 
 ### Clone the repositories
 ```sh
-$ git your_repo
+$ git clone https://github.com/MihaiCMA/world-wonders.git
 ```
 
 # Web application screenshots 
 
 1.Home page
-<img src="https://github.com/your_username/your_repositories/blob/main/Screenshots/Page.png" />
+<img src="https://github.com/MihaiCMA/world-wonders/blob/main/screenshots/1.Home.png" />
 
 <details>
   <summary>More Screenshots</summary>
-  2.Page 2
-  <img src="https://github.com/your_username/your_repositories/blob/main/Screenshots/Page.png" />
+  2.Turism
+  <img src="https://github.com/MihaiCMA/world-wonders/blob/main/screenshots/2.Turism.png" />
 
-  3.Page 3
-  <img src="https://github.com/your_username/your_repositories/blob/main/Screenshots/Page.png" />
+  3.Contact
+  <img src="https://github.com/MihaiCMA/world-wonders/blob/main/screenshots/3.Contact.png" />
 
-  4.Page 4
-  <img src="https://github.com/your_username/your_repositories/blob/main/Screenshots/Page.png" />
+  4.Taj Mahal Page
+  <img src="https://github.com/MihaiCMA/world-wonders/blob/main/screenshots/4.Taj_Mahal.png" />
 
-  5.Page 5
-  <img src="https://github.com/your_username/your_repositories/blob/main/Screenshots/Page.png" />
+  5.Taj Mahal Details Page
+  <img src="https://github.com/MihaiCMA/world-wonders/blob/main/screenshots/5.Taj_Mahal_Details.png" />
 </details>
